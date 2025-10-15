@@ -2,7 +2,7 @@
 
 ## Descripción
 
-LeDommage es una herramienta de ataque DoS (Denial of Service) desarrollada por Vanille Systems en 2025. Permite realizar ataques ICMP Flood a una IP o dominio especificado.
+LeDommage es una herramienta de ataque DoS (Denial of Service) desarrollada por Vanille. Permite realizar ataques ICMP Flood a una IP o dominio especificado.
 
 **Advertencia:** El uso de esta herramienta para realizar ataques DoS es ilegal y puede acarrear consecuencias legales graves. Utiliza esta herramienta bajo tu propia responsabilidad y únicamente en entornos controlados con fines de prueba y aprendizaje (o no 😉)
 
@@ -31,4 +31,4 @@ LeDommage es una herramienta de ataque DoS (Denial of Service) desarrollada por 
 **Ejemplo de uso:**
 
 ```bash
-python ledommage.py
+python LeDommage.py
